@@ -1,4 +1,4 @@
-# 🤖 Smart E-Commerce Negotiation Chatbot
+# 🤖 Smart E-Commerce Price Negotiation Chatbot
 
 This project is a **Flask-based AI-powered chatbot** designed for a smart e-commerce platform. It enables users to:
 
